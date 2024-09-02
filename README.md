@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋🏻, I'm Nadilla Hana Athaya</h1>
 <h3 align="center">I am an undergraduate student who is majoring in Geophysics. I am someone who is very passionate about what i like and i am willing to work hard. I value teamwork which able to influence other especially in my expertise. Detail-oriented individual who is proactive and enjoys challenges. Currently interested in oil and gas industry.</h3>
 
-<img align="right" alt="MyProfile" width="250" src="https://github.com/ndilla200/PrakMetkom/blob/main/myprofile.jpg">
+<img align="right" alt="MyProfile" width="350" src="https://github.com/ndilla200/PrakMetkom/blob/main/myprofile.jpg">
 
 <h3 align="left">Organitation:</h3>
-<h5> - AAPG UGM-SC : Staff of Research and Development Department</h5>
-<h5> - HMGF UGM : Staff of Academic Department</h5>
+<h5> 1. AAPG UGM-SC : Staff of Research and Development Department</h5>
+<h5> • Responsible for being a Liaison Officer (LO) participant’s Paper and Poster competition IES 2024</h5>
+<h5> • Sponsorship staff IES 2024</h5>
+<h5> • Responsible for managing Software Training #1</h5>
+<h5> • Responsible for managing Paper Research Seminar</h5>
+<h5> 2. HMGF UGM : Staff of Academic Department</h5>
+<h5> • Volunteer consume staff for HMGF Peduli</h5>
+<h5> • Staff consume for Outreach X Geophysics Expedition 2024</h5>
+<h5> • Responsible for creating Geofisiana News Mei edition</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
