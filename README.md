@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Nadilla Hana Athaya</h1>
 <h3 align="center">I am an undergraduate student who is majoring in Geophysics. I am someone who is very passionate about what i like and i am willing to work hard. I value teamwork which able to influence other especially in my expertise. Detail-oriented individual who is proactive and enjoys challenges. Currently interested in oil and gas industry.</h3>
 
-<img align="right" alt="MyProfile" width="350" src="
+<img align="right" alt="MyProfile" width="250" src="https://github.com/ndilla200/PrakMetkom/blob/main/myprofile.jpg">
 
 <h3 align="left">Organitation:</h3>
 <h5> - AAPG UGM-SC : Staff of Research and Development Department</h5>
