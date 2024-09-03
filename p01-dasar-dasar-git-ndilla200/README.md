@@ -20,9 +20,7 @@
 <a href="https://instagram.com/ndilla200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndilla200" height="30" width="40" /></a>
 <a href="https://gmail.com/nadilladilla200@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/emil.svg" alt="nadilladilla200@gmail.com" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndilla200&label=Profile%20views&color=0e75b6&style=flat" alt="ndilla200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilla200" alt="ndilla200" /></a> </p>
 
 <!---
 ndilla200/ndilla200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
